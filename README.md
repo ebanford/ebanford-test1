@@ -1,1 +1,1 @@
-read me getTest1
+read me getTest1from file directory 2
